@@ -1,10 +1,7 @@
-
-# Book Registration and Viewing
-## Web Development — Laravel 12
-
+ 
 ##Name:Mohsin Rostami 
 ##F/N:Safar Mohammad 
-##department: information technology 
+##department: information technology
 
 ## Objective
 
